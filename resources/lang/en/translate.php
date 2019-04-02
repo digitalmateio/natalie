@@ -1,0 +1,42 @@
+<?php
+
+return [
+    'services'  => 'services',
+    'offers' => 'offers',
+    'products' => 'products',
+    'about_us' => 'about us',
+    'spa_concept' => 'spa concept',
+    'our_partners' => 'our partners',
+    'about_academy' => 'about academy',
+    'our_mission' => 'our mission',
+    'courses' => 'courses',
+    'for_authorized'=> 'for authorized personel only',
+    'back_courses' => 'back to all courses',
+    'about_antiageclinic' => 'about anti age clinic',
+    'products' => 'products',
+    'for_man' => 'for man',
+    'partners' => 'partners ',
+    'on_sale' => 'on sale',
+    'filer_by_category' => 'filer by category',
+    'similar_products'=> 'similar products',
+    'catalog' => 'catalog',
+    'gallery'=> 'gallery',
+    'testimonials' => 'testimonials',
+    'related_products'=> 'related products',
+    'special_offers' => 'special offers',
+    'add_to_bag' => 'add to bag',
+    'about_dry_bar' => 'about dry bar',
+    'visitors_club'  => 'visitors club',
+    'become_member' => 'become a member',
+    'fill_name'=> 'fill name',
+    'email'=> 'email',
+    'phone'=> 'phone',
+    'about natalie spa' => 'about natalie spa',
+    'news' => 'news',
+    'book_now' => 'book now',
+    'continue_shoping'=> 'continue shoping',
+    'proceed_checkout'=> 'proceed to checkout',
+    
+
+];
+
